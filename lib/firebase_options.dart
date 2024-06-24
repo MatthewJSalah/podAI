@@ -41,7 +41,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'Google_API_Key',
+    apiKey: 'AIzaSyDIIEIa6OkeOF-DsiSLT2qCqcUNFkTLlzg',
     appId: '1:586933994579:web:a99ab4ba0f9bcdd493f2a6',
     messagingSenderId: '586933994579',
     projectId: 'pod-ai',
@@ -50,7 +50,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'Google_API_Key',
+    apiKey: 'AIzaSyAJJ03zRWZ4i_XWDgCj9sUHGGpqtNH-fJ8',
     appId: '1:586933994579:android:86cc93f59f576c1593f2a6',
     messagingSenderId: '586933994579',
     projectId: 'pod-ai',
@@ -58,7 +58,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'Google_API_Key',
+    apiKey: 'AIzaSyBJKxWhvDJRZZnhGwFnnyo2VfgHwfs_HP0',
     appId: '1:586933994579:ios:0ece2c7196c334dd93f2a6',
     messagingSenderId: '586933994579',
     projectId: 'pod-ai',
@@ -67,7 +67,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'Google_API_Key',
+    apiKey: 'AIzaSyBJKxWhvDJRZZnhGwFnnyo2VfgHwfs_HP0',
     appId: '1:586933994579:ios:0ece2c7196c334dd93f2a6',
     messagingSenderId: '586933994579',
     projectId: 'pod-ai',
@@ -76,7 +76,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'Google_API_Key',
+    apiKey: 'AIzaSyDIIEIa6OkeOF-DsiSLT2qCqcUNFkTLlzg',
     appId: '1:586933994579:web:3c506ed82c5b5c4593f2a6',
     messagingSenderId: '586933994579',
     projectId: 'pod-ai',

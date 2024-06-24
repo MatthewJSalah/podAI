@@ -20,7 +20,7 @@ class _WebScrapingState extends State<WebScraping> {
 
   Future<void> fetchDataAndSaveToFirestore() async {
     try {
-      // Fetch podcasters
+      // Fetch podcasters s
       final podcasters = await fetchPodcasters();
 
       // Iterate through each podcaster and fetch episodes and transcripts
